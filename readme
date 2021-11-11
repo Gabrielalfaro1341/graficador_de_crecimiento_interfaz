@@ -1,0 +1,1 @@
+Se inicia el archivo interfaz, al correrlo pregunta cuantos dataframes de deposiciones queremos leer, luego grafica cada uno por separado y finalmente los compara en un grafico para definir cual deposicion es mas rapida.
